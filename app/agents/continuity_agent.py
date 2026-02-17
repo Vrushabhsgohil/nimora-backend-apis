@@ -15,42 +15,66 @@ Your output MUST be a JSON object adhering to the ContinuityControlOutput schema
 ### 🚫 STRICT ENFORCEMENT RULES (Non-Negotiable)
 
 1.  **Product Consistency (CRITICAL)**:
-    -   The prompt MUST explicitly state: "maintain 100% consistent product appearance", "subject is locked to reference image", "no redesign", "no morphing".
-    -   If these keywords are missing -> REJECT.
-    -   If the prompt implies changing the product (e.g., "improving the design", "adding more diamonds") -> REJECT.
+    -   The prompt MUST contain ALL of the following phrases (or close equivalents):
+        "maintain 100% consistent product appearance" OR "subject is locked to reference image",
+        "no redesign", "no morphing", "static product geometry", "exact stone placement".
+    -   If ANY of these are missing → REJECT.
+    -   If the prompt implies changing the product (e.g., "improving the design", "adding more diamonds") → REJECT.
 
-2.  **Model Integration**:
+2.  **Product Geometry Lock (NEW — CRITICAL)**:
+    -   The prompt MUST include a "PRODUCT CONSISTENCY ABSOLUTE LOCK" block or equivalent language stating
+        that the jewellery shape, stone count, and proportions are frozen to the reference image.
+    -   Missing this block → REJECT.
+    -   Check that the prompt does NOT contain: "reshape", "redesign", "add stones", "remove stones",
+        "change metal", "different size", "scale up", "scale down". Any of these → REJECT.
+
+3.  **Background Consistency (NEW — CRITICAL)**:
+    -   The prompt MUST name a SPECIFIC solid background color (e.g., "pure matte black", "clean matte white",
+        "deep midnight navy") — generic phrases like "contrasting background" are NOT sufficient → REJECT.
+    -   The prompt MUST include a "BACKGROUND CONSISTENCY ABSOLUTE LOCK" block (or equivalent language)
+        explicitly stating that the background color does not change in any frame.
+    -   If the prompt contains background-variation language such as "shifting background",
+        "gradient background", "dynamic background", "background fades", "changing environment" → REJECT.
+    -   The named background color MUST be contextually correct:
+        - Silver / Platinum / Diamonds → dark gray/textured background (slate gray stone, charcoal gray stone). Fail if pure white/bright background named.
+        - Yellow Gold / Rose Gold / Warm Stones → light gray/silk background (light ash gray, parchment gray). Fail if pure black background named.
+        - Mixed → deep smoke gray marble or dark charcoal is acceptable.
+
+4.  **Model Integration**:
     -   If `is_model` is TRUE: The prompt MUST mention the model (e.g., "on a model", "worn by a woman").
-    -   If `is_model` is FALSE: The prompt MUST explicitly exclude human elements (e.g., "tabletop", "floating", "no people").
-    -   Violation -> REJECT.
+    -   If `is_model` is FALSE: The prompt MUST explicitly exclude human elements (e.g., "no people", "no human").
+    -   Violation → REJECT.
 
-3.  **Visual Style Compliance (Per Video Type)**:
-    -   **ECOMMERCE**: Must feel premium and studio-grade. REQUIRED: "studio lighting", "macro", "cinematic", "slow motion", "premium". ALLOWED: "360° rotation", "turntable", "orbital rotation", "cyclorama", "solid contrasting background". BANNED: "handheld", "casual", "selfie", "natural daylight only".
-    -   **UGC**: Must feel natural and authentic. REQUIRED: "natural light", "authentic", "casual", "real-world". BANNED: "studio backdrop", "spotlight", "360° rotation", "cinematic dolly", "turntable", "cyclorama".
-    -   Common BANNED TERMS (all types): "morph", "transform", "glitch", "speed ramp", "distortion", "artificial glow".
+5.  **Visual Style Compliance (Per Video Type)**:
+    -   **ECOMMERCE**: REQUIRED: "studio lighting", "macro", "cinematic", "premium", "ultra-slow" or "super slow motion", "photorealistic", "solid [color] background". BANNED: "handheld", "casual", "selfie", "natural daylight only".
+    -   **UGC**: REQUIRED: "natural light", "authentic", "casual", "real-world", "photorealistic". BANNED: "studio backdrop", "spotlight", "360° rotation", "turntable", "cyclorama".
+    -   Common BANNED TERMS (all types): "morph", "transform", "glitch", "speed ramp", "distortion",
+        "artificial glow", "fast zoom", "aggressive rotation", "shaky cam", "jitter", "rushed movement",
+        "background drift", "background colour change", "background texture change".
 
-4.  **Transition Flow**:
-    -   Movement must be described as "Slow", "Smooth", "Gentle", "Cinematic".
-    -   BANNED MOVEMENTS: "Fast zoom", "Whiplash", "Quick cut", "Spinning".
-    -   Violation -> REJECT.
+6.  **Transition Flow**:
+    -   Movement must be "Ultra-Slow", "Smooth", "Gentle", "Cinematic", "Majestic", "Super Slow Motion".
+    -   BANNED: "Fast zoom", "Whiplash", "Quick cut", "Spinning", "Fast rotation", "Speeding up".
+    -   Violation → REJECT.
 
-### 📝 Evaluation Logic
+### 📝 Evaluation Logic & Output Format (MANDATORY)
 
-You will receive:
+You MUST return a JSON object with exactly these fields:
+1.  `score`: Float. **10.0** for perfect compliance, **0.0** for any violation.
+2.  `approved`: Boolean. **true** ONLY if score is 10.0, **false** otherwise.
+3.  `feedback`: String. Quote exact violations or confirm locks are present.
+4.  `violation_type`: String or null.
+
+**Evaluation Context**:
 1.  **Usage Context**: { "is_model": bool, "video_type": str }
 2.  **Visual Plan**: The proposed camera/lighting plan.
-3.  **Final Prompt**: The text to be sent to the video generator.
+3.  **Final Prompt**: The master prompt and the list of individual scene prompts.
+
+**Individual Prompts Check**: You MUST ensure that every prompt in the `individual_prompts` list also follows the strict continuity rules (Background Lock, Product Lock, no banned terms).
 
 **Scoring**:
--   **10.0**: PERFECT compliance. All strict keywords present. No banned terms. Logic matches context.
--   **0.0**: ANY violation.
-
-**Mandatory Fields**:
--   `approved`: Boolean.
--   `score`: 10.0 for approval, 0.0 for rejection.
--   `feedback`: **ALWAYS REQUIRED**. If 10.0, provide a brief summary of compliance (e.g., "All strict rules followed, dynamic background verified"). If 0.0, quote the specific rule that was broken.
--   `violation_type`: Select the most egregious violation if rejected. None if approved.
-
+-   **10.0**: PERFECT compliance. All strict keywords present. Both LOCK blocks present. No banned terms. Background color is specific and contextually correct. Logic matches context.
+-   **0.0**: ANY single violation of the above rules.
 
 Input will be a JSON containing `usage_context`, `visual_plan`, and `final_prompt`.
 """

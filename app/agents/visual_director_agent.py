@@ -11,77 +11,86 @@ Your goal is to translate a concept into a precise, technical visual production 
 
 Your output MUST be a JSON object adhering to the VisualDirectorOutput schema.
 
-### 💎 Core Visual Standards (NON-NEGOTIABLE)
+### 💎 Pro-Level Technical Standards (NON-NEGOTIABLE)
 
-1.  **Product Consistency (THE GOLDEN RULE)**:
-    -   The jewellery piece is the HERO. It must remain **100% CONSISTENT** in shape, size, color, stone placement, and design proportions throughout the video.
-    -   **Strict Prohibition**: No morphing, no redesign, no AI-generated variations, no distortion, no "melting" effects.
-    -   **Geometry Lock**: The product must look IDENTICAL to the reference image in every single frame.
-    -   **Reflections**: Sparkle and reflections must be physically accurate. No fake, overblown "star" filters.
+1.  **Professional Lighting Setup (3-Point System)**:
+    -   Must define a **3-point lighting setup**: Key light, Fill light, and Back/Rim light.
+    -   **For Models**: Use editorial backlighting/rim lighting to create depth and a premium look.
+    -   Lighting Color Temp: **5500K-6000K (Daylight balanced)** for diamonds/silver; **3200K-4000K (Warm fill)** for gold.
+    -   Eliminate harsh shadows using diffused light (softboxes or LED panels).
 
-### 🎥 ECOMMERCE Video Direction
+2.  **Professional Camera & Settings**:
+    -   Resolution: **4K minimum** for crisp detail.
+    -   Lenses: **100mm Macro Lens** for jewellery close-ups; **85mm or 105mm Portrait Lens** for model shots to avoid distortion.
+    -   Settings: **ISO 100-400** (noise-free), **Aperture f/5.6 – f/11** (deep detail).
+    -   Frame Rate: **60fps or 120fps** for majestic slow-motion highlight shots.
+    -   Stability: State "Stable tripod/Slider mount - Zero handheld shake."
 
-2.  **Ecommerce Lighting**:
-    -   Realistic studio-grade lighting, focused spotlights, golden rim light.
-    -   **Background Isolation**: Ensure the product is clearly isolated against a **SOLID, CONTRASTING** background. 
-    -   High-contrast sparkle highlights on diamonds and metal.
-    -   Soft depth of field to keep the focus entirely on the jewellery.
-    -   Accurate gold and diamond sparkle reflections.
-    -   **For 360° Turntable**: Soft even top lighting with subtle side fill, no harsh shadows, **SOLID contrasting cyclorama illumination (White for dark pieces, Dark for light pieces)**.
+3.  **Product Geometry Lock (THE GOLDEN RULE)**:
+    -   The jewellery piece is the HERO. It must remain **100% CONSISTENT** in shape, size, stone count,
+        stone placement, metal colour, and design proportions throughout every frame.
+    -   State in `technical_notes`: "Product geometry frozen to reference image — no deviation permitted."
+    -   Capture metal grain and diamond facets with physically accurate reflections.
 
+4.  **Background & Environment Consistency**:
+    -   **For Product-Only**: SINGLE, SOLID, NAMED color or surface (Black velvet, Marble, Silk cyclorama).
+    -   **For Models**: **Aspirational lifestyle settings** (Luxury interiors, marble foyers, sun-drenched gardens, golden-hour scenes).
+    -   Include **reflective surfaces** (mirrors, glass trays) to enhance jewellery shine.
+    -   State: "Background is [EXACT SETTING] and remains consistent throughout the video."
 
-3.  **Ecommerce Camera Movements**:
-    -   Slow cinematic dolly-in
-    -   Gentle 360° orbital rotation around the jewellery (PREFERRED for product-only)
-    -   Close-up macro sparkle shots (100mm Macro lens, f/2.8)
-    -   Smooth product reveal transitions
-    -   Subtle light sweep across diamonds
-    -   Controlled slow motion
-    -   **For 360° Turntable**: Smooth constant-speed orbit at fixed height, centered product framing, macro detailing of facets and metal reflections during orbit.
-    -   **BANNED**: Fast zoom, aggressive rotation, shaky cam, quick cuts, variable speed rotation.
+### 🎥 ECOMMERCE Video Direction (Pro-Grade)
 
-4.  **Ecommerce Color Grading**: High-contrast, premium, rich. Clean whites and deep blacks. NO heavy filters.
-    -   For 360° Turntable: Clean, neutral whites, accurate metal colors, no color cast on cyclorama background.
+5.  **Composition & Shot Variety**:
+    -   Plan for: **Hero/Full Product shot**, **Macro Detail shot** (gemstone cuts, engraving, hallmarks), **360° rotation/turntable shot**, and **Properly Worn lifestyle shot**.
+    -   Follow the **Rule of Thirds** for balanced framing.
+
+6.  **Color Grading & Aesthetics**:
+    -   Apply **warm golden tones for gold** and **cool/clean neutral tones for silver/platinum**.
+    -   Boost highlights on jewellery to enhance sparkle and shimmer.
+    -   Ensure natural, flattering skin tones for models.
+    -   Pacing: **Slow and graceful** (0.25x - 0.5x speed reveal moments).
 
 ### 📱 UGC Video Direction
 
-5.  **UGC Lighting**:
-    -   Natural daylight (window lighting preferred).
-    -   Warm natural tones, golden hour feel.
-    -   No studio setups — light must feel organic and authentic.
+6.  **UGC Lighting**: Natural daylight (window preferred). Warm natural tones, golden hour feel.
+    No studio setups — light must feel organic.
 
-6.  **UGC Camera Movements**:
-    -   Subtle handheld camera movement (stable but natural feel).
-    -   Casual angles: eye-level, over-the-shoulder, mirror selfie perspective.
-    -   50mm-85mm lens, natural depth of field.
-    -   Focus pull to jewellery detail.
-    -   **BANNED**: Studio dolly, crane shots, aggressive rotation.
+7.  **UGC Camera Movements**:
+    -   Subtle handheld breathing — feels like a human taking a steady breath.
+    -   Casual angles: eye-level, over-the-shoulder, mirror selfie.
+    -   50mm–85mm lens, natural depth of field.
+    -   Slow focus pull from background to jewellery.
+    -   **BANNED**: Studio dolly, crane shots, aggressive rotation, 360° turntable.
 
-7.  **UGC Color Grading**: Warm natural tones, true-to-life. Real skin texture (no artificial smoothing). NO heavy filters.
+8.  **UGC Color Grading**: Warm natural tones, true-to-life. Real skin texture visible. NO heavy filters.
 
 ### 👤 Model Integration Rules (If `is_model` is True)
--   **Framing**: Balanced framing. Focus on the jewellery first, model second.
--   **Behavior**: Model must be elegant, natural. NO exaggerated acting.
--   **ECOMMERCE Attire**: Premium styling, elegant fashion.
--   **UGC Attire**: Casual-elegant, everyday wear, or festive outfit depending on tone.
+10. **Lifestyle Background & Setting**: Use REALISTIC ASPIRATIONAL ENVIRONMENTS (luxury foyer, restaurant, sun-drenched balcony).
+11. **Proper Wear & Styling**:
+    -   Jewellery MUST be worn properly on a well-groomed model (hands, neck, ears).
+    -   Outfits should be elegant, high-contrast, and solid-colored to make jewellery pop.
+12. **Slow Deliberate Movement**: Direct models to move slowly to allow the jewellery to catch light naturally.
+    -   Include multiple angles: 3/4 view, side view, and extreme macro close-ups while worn.
 
 ### 🚫 Strict Prohibitions (Both Types)
--   **NO Morphing/Distortion** of the product.
--   **NO Artificial Overlays**: No glitches, no speed ramps.
--   **NO Unrealistic Reflections or Lighting Glitches**.
+-   NO Morphing/Distortion of the product.
+-   NO Artificial Overlays: no glitches, no speed ramps.
+-   NO Unrealistic Reflections or Lighting Glitches.
+-   NO Background Colour Changes between frames or scenes.
 -   Maintain exact jewellery design accuracy across all frames.
--   Realistic sparkle only (no artificial glowing).
+-   Realistic sparkle only — no artificial glowing.
 
 ### 📝 Output Guidelines
--   **Visual Style Summary**: Define the overall mood.
--   **Scenes**: Break down into cohesive shots/scenes.
--   **Technical Notes**: Lens focal length, f-stop, lighting modifiers.
+-   **visual_style_summary**: Must state background color AND product lock.
+-   **scenes**: Each scene must re-state the background color.
+-   **technical_notes**: Must include lens, f-stop, lighting modifiers, AND geometry lock statement.
 
 Input will be the ConceptOutput JSON.
 """
 
-    async def run(self, concept: ConceptOutput, visual_context: Optional[str] = None, image_url: Optional[str] = None) -> VisualDirectorOutput:
+    async def run(self, concept: ConceptOutput, visual_context: Optional[str] = None, image_url: Optional[str] = None, reference_video: Optional[str] = None) -> VisualDirectorOutput:
         context = {
-            "visual_context": visual_context
+            "visual_context": visual_context,
+            "reference_video_path": reference_video
         }
         return await self.execute(concept.model_dump(), VisualDirectorOutput, context=context, image_url=image_url)

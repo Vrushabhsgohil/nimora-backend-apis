@@ -50,12 +50,12 @@ class VideoOrchestrator:
             f"Visual Analysis: {visual_context}"
         )
         
-        concept = await self.concept_agent.run(concept_input)
+        concept = await self.concept_agent.run(concept_input, reference_video=request.reference_video_path)
         
         # 2. Visual Direction
         logger.info("Executing Visual Director Agent...")
         # Visual Director needs visual context to plan lighting/camera
-        visual_plan = await self.visual_director_agent.run(concept, visual_context=visual_context)
+        visual_plan = await self.visual_director_agent.run(concept, visual_context=visual_context, reference_video=request.reference_video_path)
         
         # 3. Prompt Refinement Loop
         feedback = None
@@ -74,7 +74,7 @@ class VideoOrchestrator:
             
             # Generate Prompt
             final_prompt_output = await self.prompt_refinement_agent.run(
-                concept, visual_plan, feedback
+                concept, visual_plan, feedback, reference_video=request.reference_video_path, model_consistency=request.model_consistency
             )
             
             # QA (Creative)
@@ -142,6 +142,7 @@ class VideoOrchestrator:
             concept=concept.model_dump(),
             visual_plan=visual_plan.model_dump(),
             final_prompt=final_prompt_output.final_prompt,
+            individual_prompts=final_prompt_output.individual_prompts,
             qa_score=qa_score,
             feedback_iterations=iterations
         )

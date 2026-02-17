@@ -28,6 +28,7 @@ class VisualDirectorOutput(BaseModel):
 # Prompt Refinement Agent Schemas
 class PromptRefinementOutput(BaseModel):
     final_prompt: str = Field(..., description="The optimized prompt for the video generation model")
+    individual_prompts: List[str] = Field(default_factory=list, description="A breakdown of prompts for each individual scene or segment")
     rationale: str = Field(..., description="Explanation of why this prompt structure was chosen")
     negative_prompt: Optional[str] = Field(None, description="Elements to avoid")
 
@@ -57,4 +58,4 @@ class ContinuityControlOutput(BaseModel):
     score: float = Field(..., description="Compliance score out of 10. Must be 10.0 for approval.")
     feedback: str = Field(..., description="Detailed feedback on specific violations of strict rules.")
     violation_type: Optional[str] = Field(None, description="Type of violation (e.g., 'Product Change', 'Artificial Effect', 'Model Issue'). None if approved.")
-    approved: bool = Field(..., description="True only if score is 10.0")
+    approved: bool = Field(False, description="True only if score is 10.0")
