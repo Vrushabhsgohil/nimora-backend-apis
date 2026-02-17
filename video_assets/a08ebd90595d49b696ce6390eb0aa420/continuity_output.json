@@ -1,0 +1,6 @@
+{
+  "score": 10.0,
+  "feedback": "The prompt explicitly states the need to maintain 100% consistent product appearance, subject is locked to reference image, no redesign, no morphing. It clearly describes a model, matching the 'is_model': true context. The tone emphasizes natural, realistic lighting and materials, avoiding artificial effects such as cinematic effects, glitch, sparkle filters, or overlays. Movement descriptions are slow, smooth, and gentle, complying with transition flow rules. All criteria are met without violations.",
+  "violation_type": null,
+  "approved": true
+}

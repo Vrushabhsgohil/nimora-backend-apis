@@ -1,0 +1,45 @@
+{
+  "visual_style_summary": "Deep, warm golden tones with subtle teal accents, cinematic contrast, emphasizing intricate Indian craftsmanship. Luxurious, regal mood with ethereal, mystical undertones, highlighting the detailed filigree and motifs of the necklace through macro precision shots.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "A close-up macro shot of the necklace's intricate filigree and motifs, focusing on the textures and craftsmanship in deep, warm gold. Shadows accentuate the detailed design, with subtle reflections highlighting the gold richness. The scene starts shadowed, slowly revealing the detailed patterns as light gradually illuminates the surface.",
+      "camera_angle": "macro, eye-level",
+      "camera_movement": "slow, gentle push-in",
+      "lighting_setup": "dramatic rim lighting highlighting edges and filigree, soft diffused fill light to soften shadows and reveal intricate details, subtle reflections on the surface",
+      "focus_points": [
+        "filigree work",
+        "motifs",
+        "gold texture"
+      ],
+      "duration_estimate": 2.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "A cinematic slow zoom-in on the central pendant, capturing the shimmer of light glinting on its detailed surface and dangling elements. The shot emphasizes the craftsmanship, with highlights gliding across motifs. The background softly blurs, directing focus to the pendant\u2019s intricate design.",
+      "camera_angle": "macro, slightly overhead",
+      "camera_movement": "slow zoom in, cinematic",
+      "lighting_setup": "focused rim light on the pendant, soft fill to soften shadows, subtle teal accents reflected subtly in highlights",
+      "focus_points": [
+        "central pendant",
+        "dangling elements",
+        "filigree details"
+      ],
+      "duration_estimate": 2.5
+    },
+    {
+      "sequence_number": 3,
+      "description": "A gentle orbit around the model's neckline, revealing the necklace's full profile with a soft glow, capturing the shimmer of the dangling elements as the model moves slightly. The scene culminates with the necklace softly glowing, highlighting the rich golden hue and meticulous craftsmanship.",
+      "camera_angle": "over-the-shoulder, slightly low angle",
+      "camera_movement": "slow, smooth orbit",
+      "lighting_setup": "rim lighting to accentuate silhouette, diffused fill light to soften shadows, subtle teal accents integrated into the background",
+      "focus_points": [
+        "full necklace",
+        "dangling elements",
+        "play of light"
+      ],
+      "duration_estimate": 1.5
+    }
+  ],
+  "technical_notes": "Reflections on the gold surface are physically accurate, responding naturally to lighting. Macro focus is sharp and detailed, emphasizing subtle textures and motifs. The cinematic color grading incorporates deep golds with teal accents, deep shadows, and rich contrast, maintaining visual consistency and elegance throughout. Overall, lighting enhances craftsmanship without artificial overlays, creating an ethereal yet regal atmosphere."
+}

@@ -1,0 +1,45 @@
+{
+  "visual_style_summary": "Ethereal, cinematic aesthetic with warm gold and crisp white tones, soft-focus background, luminous glow, emphasizing luxury, intricate craftsmanship, and radiant brilliance of the bridal ring set.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "Macro shot capturing the brilliant sparkle of the round-center diamond, with light refraction and scintillation emphasized through detailed facets and reflections.",
+      "camera_angle": "Macro 100mm",
+      "camera_movement": "Slow zoom in to intensify sparkle",
+      "lighting_setup": "Cinematic lighting with soft golden glow, highlighting fire and scintillation, minimal fill to enhance gem brilliance",
+      "focus_points": [
+        "Center diamond facet interaction",
+        "Diamond's fire and reflections",
+        "Precise focus on the cut and clarity"
+      ],
+      "duration_estimate": 2.5
+    },
+    {
+      "sequence_number": 2,
+      "description": "Subtle rotation of the ring to reveal the square halo, pav\u00e9 details, and milgrain accents, emphasizing depth and craftsmanship with dynamic light play.",
+      "camera_angle": "Macro 100mm",
+      "camera_movement": "Gentle clockwise rotation",
+      "lighting_setup": "Same cinematic golden glow, with soft cross-light to create reflections and highlight textures",
+      "focus_points": [
+        "Halo geometry and refraction",
+        "Pav\u00e9 stones sparkle",
+        "Milgrain detail on metal edges"
+      ],
+      "duration_estimate": 2.5
+    },
+    {
+      "sequence_number": 3,
+      "description": "Soft, shimmering glow around the entire ring, enhancing a luminous aura that emphasizes the luxurious quality and craftsmanship.",
+      "camera_angle": "Close-up macro",
+      "camera_movement": "Slow pull-back to reveal the full ring envelope in a luminous environment",
+      "lighting_setup": "Diffuse golden glow with soft reflections, subtle backlighting to create a halo effect",
+      "focus_points": [
+        "Ring silhouette",
+        "Luminous reflections on metal and gemstones",
+        "Overall radiance and elegance"
+      ],
+      "duration_estimate": 1.0
+    }
+  ],
+  "technical_notes": "Light refraction and scintillation in the diamonds produce sparkling highlights and fire, enhanced by the soft diffuse lighting to create a luminous, dreamlike quality. The textured pav\u00e9 and milgrain accents respond dynamically to light, emphasizing craftsmanship and detail. Use a macro lens with a shallow depth of field to isolate features, with gentle camera movements to add elegance without disrupting the polished, cinematic feel."
+}

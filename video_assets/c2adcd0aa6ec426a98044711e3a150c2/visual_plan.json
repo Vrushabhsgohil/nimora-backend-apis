@@ -1,0 +1,48 @@
+{
+  "visual_style_summary": "The overall visual approach exudes opulence and regal elegance, emphasizing high-detail craftsmanship and vibrant gemstone contrast. Warm, luxurious tones with precise highlights and soft shadows create a majestic atmosphere. The emphasis is on sharp textures, realistic reflections, and realistic sparkle to enhance the beauty, tradition, and craftsmanship of the Indian bridal necklace set in a cinematic, high-end style.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "A slow macro glide across the layered diamond motifs and emerald stones, highlighting intricate craftsmanship, details, and the vibrant contrasts of the gemstones.",
+      "camera_angle": "Macro close-up",
+      "camera_movement": "Slow, smooth macro glide across the necklace",
+      "lighting_setup": "Warm, royal lighting with soft spotlight accents, subtle fill light to preserve natural textures",
+      "focus_points": [
+        "Diamond patterns",
+        "Emerald stones",
+        "Metal texture",
+        "Stone settings"
+      ],
+      "duration_estimate": 4.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "Transition to a gentle top-angle reveal of the full set, showcasing the necklace and matching earrings in an elegant, regal composition against champagne silk background.",
+      "camera_angle": "Top-angle full view",
+      "camera_movement": "Controlled slow upward movement from macro",
+      "lighting_setup": "Consistent warm, royal lighting with subtle sparkle highlights on all gemstones",
+      "focus_points": [
+        "Full set symmetry",
+        "Emerald accents",
+        "Diamond facets",
+        "Overall craftsmanship"
+      ],
+      "duration_estimate": 5.0
+    },
+    {
+      "sequence_number": 3,
+      "description": "Refined shot of the complete set in full view, capturing intricate details and rich textures, emphasizing luxury and elegance suitable for a high-end bridal campaign.",
+      "camera_angle": "Full product in center frame",
+      "camera_movement": "Stationary with slight tilt or subtle camera sway for dynamic feel",
+      "lighting_setup": "Warm, diffused, luxurious lighting with subtle sparkle highlights and realistic reflections",
+      "focus_points": [
+        "Jewellery set in full view",
+        "Vibrant gemstone contrast",
+        "Brilliant reflections",
+        "Surface textures"
+      ],
+      "duration_estimate": 4.0
+    }
+  ],
+  "technical_notes": "Maintain strict product consistency with no distortion or morphing. Ensure precise reflections and sparkle highlights are achieved through controlled lighting and camera angles. Use macro lenses at f/2.8 for detailed focus. Lighting must enhance the natural brilliance of diamonds and emeralds while preserving the gold-metallic hues as per the visual reference. Avoid overexposure of gemstones; keep the background and product in a balanced, warm tone that complements the opulent theme."
+}

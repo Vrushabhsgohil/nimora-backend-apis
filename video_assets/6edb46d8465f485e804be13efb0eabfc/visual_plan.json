@@ -1,0 +1,59 @@
+{
+  "visual_style_summary": "Luxurious, regal Indian royal wedding atmosphere with high cinematic refinement. The imagery emphasizes opulence, craftsmanship, and vibrant richness through warm tones, rich textures, and accurate gemstone reflections. The product remains crystal clear and consistent throughout, with a focus on intricate details and a majestic, sophisticated mood.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "A macro glide across the layered necklace highlighting the intricate craftsmanship, gemstone symmetry, and fine prong settings. Emphasizes sparkle and textures with soft focus.",
+      "camera_angle": "macro",
+      "camera_movement": "slow glide from one end of the necklace to the other",
+      "lighting_setup": "diffused warm key light with subtle highlight spots, soft fill from the sides, gentle backlight to enhance sparkle, set against a contrasting solid background",
+      "focus_points": [
+        "intricate prong settings",
+        "gemstone symmetry",
+        "detailed craftsmanship",
+        "diamond and emerald facets"
+      ],
+      "duration_estimate": 3.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "A grand top-angle reveal of the complete set on a luxurious champagne silk fabric background, showcasing the overall design and regal elegance.",
+      "camera_angle": "top-down",
+      "camera_movement": "slow, smooth transition into a steady top view",
+      "lighting_setup": "warm diffuse key lights with gentle fill, soft spotlight accents on gemstones to accentuate sparkle, background evenly lit with subtle shadows to add depth",
+      "focus_points": [
+        "entire set composition",
+        "symmetry of pattern",
+        "emeralds and diamonds sparkle"
+      ],
+      "duration_estimate": 3.0
+    },
+    {
+      "sequence_number": 3,
+      "description": "Subtle slow-motion highlight shots focusing on the emeralds and diamonds, emphasizing their vibrant color and brilliant sparkle.",
+      "camera_angle": "close-up (macro detail)",
+      "camera_movement": "slow, controlled slow-motion panning across gemstones",
+      "lighting_setup": "consistent warm, regal lighting with sparkles accentuated through gentle highlights",
+      "focus_points": [
+        "emerald cut gemstones",
+        "diamond facets",
+        "reflections and sparkle highlights"
+      ],
+      "duration_estimate": 2.0
+    },
+    {
+      "sequence_number": 4,
+      "description": "A final steady shot with a slight zoom out, presenting the complete set elegantly with a regal cinematic ambiance, emphasizing craftsmanship and richness.",
+      "camera_angle": "steady camera with gentle zoom",
+      "camera_movement": "slow zoom out",
+      "lighting_setup": "balanced warm lighting, emphasizing key details, with subtle shadow play to add depth",
+      "focus_points": [
+        "entire set",
+        "overall craftsmanship",
+        "luxury aesthetic"
+      ],
+      "duration_estimate": 2.0
+    }
+  ],
+  "technical_notes": "Maintain strict consistency in jewellery appearance throughout scenes, with precise reflections and sparkle physics. Use high-quality macro lenses (100mm f/2.8) for close-ups, and ensure lighting accentuates the gold finish and gemstone brilliance without overexposure. The background should remain a rich champagne silk fabric with no color cast, ensuring the product remains the hero. Reflections should be realistic, capturing the cut and facets of diamonds and emeralds accurately, respecting gemstone geometry and metal finish. No distortions or artificial overlays are allowed; all motions should be smooth, controlled, and cinematic in nature."
+}

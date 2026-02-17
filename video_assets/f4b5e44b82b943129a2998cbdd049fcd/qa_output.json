@@ -1,0 +1,11 @@
+{
+  "score": 8.5,
+  "feedback": "The prompt demonstrates a strong understanding of luxury visual standards, with detailed technical specifications and a sophisticated aesthetic tone. However, it slightly overemphasizes technical details such as 8k resolution and hyper-detailed facets, which, while indicative of high quality, may detract from the natural, subtle elegance expected in luxury branding. Additionally, the prompt does not explicitly emphasize the importance of maintaining the product's perfect fidelity and identical appearance throughout the shots, which is critical for product consistency. The lighting and camera instructions are well-aligned with luxury standards, but minor adjustments to tone down overly technical jargon and reinforce product authenticity would improve compliance.",
+  "critique_points": [
+    "The prompt includes excessive technical detail (8k resolution, hyper-detailed facets, subsurface scattering, caustic reflections) that could be perceived as overly technical rather than luxurious and sophisticated.",
+    "It lacks explicit emphasis on maintaining the product's identical appearance across shots to ensure perfect fidelity.",
+    "The language could be more refined to better evoke a high-end, premium tone without over-relying on technical jargon.",
+    "While the prompt describes luxury attributes well, it doesn't clearly mention avoiding any artificial or exaggerated visual effects that could compromise realism."
+  ],
+  "approved": false
+}

@@ -1,0 +1,6 @@
+{
+  "score": 10.0,
+  "feedback": "The prompt explicitly states maintaining 100% consistent product appearance, with no redesign or morphing implied. The usage context specifies 'is_model: false', and the description confirms no human elements are included. The visual style aligns with premium, studio-grade requirements, emphasizing 'studio lighting', 'cinematic', 'slow motion', and avoiding suppressed or banned terms like 'handheld' or 'natural daylight only'. Transition descriptions are smooth and cinematic, with no banned movements such as 'fast zoom' or 'whiplash'. The visual plan respects all strict rules for continuity and style compliance. Therefore, there are no violations.",
+  "violation_type": null,
+  "approved": true
+}

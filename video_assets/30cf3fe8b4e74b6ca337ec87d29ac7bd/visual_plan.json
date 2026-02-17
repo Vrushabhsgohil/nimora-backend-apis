@@ -1,0 +1,58 @@
+{
+  "visual_style_summary": "Rich, warm tones with a luxurious gold palette emphasizing intricate textures, ornate details, and reflective surfaces. The overall mood is regal and traditional, evoking cultural pride and elegance through soft, ambient lighting and subtle camera movements that highlight craftsmanship without distortion.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "Close-up macro shot of the necklace's floral motifs and dangling elements, emphasizing detailed gold filigree and sparkle with soft ambient highlights.",
+      "camera_angle": "Macro close-up",
+      "camera_movement": "Static with slight focus pull across motifs",
+      "lighting_setup": "Soft, warm diffused lighting with gentle spotlighting on motifs; ambient gold-toned glow",
+      "focus_points": [
+        "Intricate floral motifs",
+        "Dangling gold elements",
+        "Reflections and sparkle on polished surfaces"
+      ],
+      "duration_estimate": 4.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "Slow, cinematic reveal starting with a close-up of the floral motif, gradually pulling back to show the full necklace, mounted on a luxurious textured surface.",
+      "camera_angle": "Close-up to medium shot",
+      "camera_movement": "Slow pull-back (dolly out) for reveal",
+      "lighting_setup": "Consistent soft lighting emphasizing details, with gentle side fill to reveal textures",
+      "focus_points": [
+        "Detailed filigree work",
+        "Polished gold surface",
+        "Ornate motifs"
+      ],
+      "duration_estimate": 6.0
+    },
+    {
+      "sequence_number": 3,
+      "description": "Orbital slow rotation around the necklace, highlighting reflective surfaces, craftsmanship, and textures with macro sparkle highlights during movement.",
+      "camera_angle": "360\u00b0 orbit",
+      "camera_movement": "Constant slow orbit at fixed height, centered on the product",
+      "lighting_setup": "Soft top lighting with subtle side fill to maintain consistent highlights and reflections",
+      "focus_points": [
+        "Reflections on gold surface",
+        "Filigree details from different angles",
+        "Sparkle highlights on gemstones and metal"
+      ],
+      "duration_estimate": 8.0
+    },
+    {
+      "sequence_number": 4,
+      "description": "Soft ambient shot of the full set, emphasizing the ornate design and craftsmanship, with the camera gently pulling away to increase depth and grandeur.",
+      "camera_angle": "Wide, slightly elevated",
+      "camera_movement": "Slow pull away for a majestic reveal",
+      "lighting_setup": "Diffuse, warm lighting creating a glowing effect on the set",
+      "focus_points": [
+        "Overall ornate design",
+        "Gold finish and floral motifs",
+        "Craftsmanship details"
+      ],
+      "duration_estimate": 5.0
+    }
+  ],
+  "technical_notes": "Ensure all reflections and sparkle effects are physically accurate, with no overblown star filters or artificial glows. Maintain consistent geometry of the jewellery throughout all scenes, with precise lighting to highlight filigree textures and reflective surfaces. Use macro lenses (100mm) for close-up details at f/2.8, appropriate focus pulls, and steady camera movements. White cyclorama background should remain clean and neutral during orbit and reveal shots to preserve color accuracy and luxury aesthetic."
+}

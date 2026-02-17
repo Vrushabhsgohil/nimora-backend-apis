@@ -1,0 +1,32 @@
+{
+  "visual_style_summary": "Rich, warm hues with deep gold tones, accented by festive reds and subtle bokeh of diya flames, exuding warmth, celebration, and regal heritage. Combining modern luxury with traditional festival vibes, emphasizing natural reflections and detailed craftsmanship.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "Begin with an abstract glow of diya flames in the background, softly illuminating the scene with a warm, flickering ambient light. The focus is on the ultra-close macro detail of the ring\u2019s surface, highlighting the polished gold and intricate craftsmanship.",
+      "camera_angle": "Macro (100mm), focused tightly on the ring with a slight angle to emphasize textures and reflections",
+      "camera_movement": "Slow, subtle push-in towards the ring, maintaining stability and smoothness",
+      "lighting_setup": "Soft, golden ambient lighting with flickering effects mimicking diya flames, using diffusers and warm fill lights to enhance the ring\u2019s polished surface and gemstone brilliance, avoiding harsh shadows or overexposure",
+      "focus_points": [
+        "central stone clarity",
+        "gold polish surface",
+        "intricate crossover design"
+      ],
+      "duration_estimate": 2.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "Gradual zoom out and slow rotation revealing the crossover band design, with the background softly blurring to emphasize the craftsmanship. The ambient diya flicker continues, adding dynamic warmth while keeping the product as the visual hero. The scene culminates with a luminous, sparkling reveal of the full ring.",
+      "camera_angle": "Macro with gentle rotation (360\u00b0) around the ring, maintaining a consistent close-up",
+      "camera_movement": "Gentle slow rotation combined with slight zoom out, ensuring steady and smooth motion",
+      "lighting_setup": "Continuation of soft, golden ambient light with subtle flickering to mimic diya flames, ensuring reflections and gemstones remain natural and physically accurate",
+      "focus_points": [
+        "crossover design details",
+        "central stone brilliance",
+        "gold finish"
+      ],
+      "duration_estimate": 3.0
+    }
+  ],
+  "technical_notes": "Maintain a 4K resolution with a shallow depth of field (f/2.0). Use a 100mm macro lens for extreme detail. Lighting should be anchored around the product structure with warm, even tones and subtle flickering to mimic traditional diya flames, avoiding any overexposure or artificial effects. Reflections and gemstone facets must respond realistically to lighting. The product must remain consistent in shape and appearance throughout all frames, with physically accurate details on the cut and clarity of the central stone."
+}

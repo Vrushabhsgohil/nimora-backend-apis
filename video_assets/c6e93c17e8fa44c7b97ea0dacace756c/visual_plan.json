@@ -1,0 +1,46 @@
+{
+  "visual_style_summary": "Ethereal and luxurious visual tone with warm, gold-toned palette. Soft cinematic color grading enhances gold richness and gemstone vibrancy, evoking timeless tradition and regal grandeur. Focus on detailed craftsmanship with gentle, cinematic lighting and fluid camera movements.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "Extreme macro close-up of coin motifs and geometric patterns on the gold necklace, emphasizing texture and intricate craftsmanship. The shot highlights the fine detailing of goldsmithing and stone settings.",
+      "camera_angle": "Macro (100mm or equivalent) focusing on the coin motifs",
+      "camera_movement": "Slow push-in to emphasize detail and richness",
+      "lighting_setup": "Soft diffused key light with warm golden tone, subtle rim light to define edges, gentle fill to reveal textures, and a soft glow around the motifs for ethereal effect",
+      "focus_points": [
+        "coin motifs",
+        "geometric patterns",
+        "gold textures",
+        "vibrant stone accents"
+      ],
+      "duration_estimate": 1.5
+    },
+    {
+      "sequence_number": 2,
+      "description": "Transition to a wider macro shot revealing the dangling gold elements and vivid stones, capturing the interplay of light passing through the stones to create refractive caustics. Slowly zoom out to reveal more of the set's detail.",
+      "camera_angle": "Macro to close-up transition, focusing on dangling elements",
+      "camera_movement": "Smooth slow zoom out combined with lateral slide to reveal depth",
+      "lighting_setup": "Warm key lighting with enhanced caustics through the stones, rim lights for separation, subtle glow for an ethereal aura, soft fill to retain texture details",
+      "focus_points": [
+        "dangling gold elements",
+        "vibrant stones",
+        "metal and stone interplay"
+      ],
+      "duration_estimate": 2.0
+    },
+    {
+      "sequence_number": 3,
+      "description": "Slow tilt movement to reveal the matching earrings, maintaining focus on craftsmanship and harmony within the set. Ethereal glow surrounds the earrings, highlighting their regal presence.",
+      "camera_angle": "Medium shot, tilted slightly from the necklace to earrings",
+      "camera_movement": "Gentle tilt (dolly tilt) to showcase the earrings in a flowing motion",
+      "lighting_setup": "Same warm, cinematic lighting with added subtle glow around earrings, emphasizing unity and opulence",
+      "focus_points": [
+        "matching earrings",
+        "gemstone brilliance",
+        "metalwork details"
+      ],
+      "duration_estimate": 1.5
+    }
+  ],
+  "technical_notes": "Use a 100mm macro lens at f/2.0 for extreme detail with shallow depth of field. Lighting should be diffused with softboxes and reflectors to create warm highlights and eliminate harsh shadows. Incorporate naturalistic caustic patterns through stones to enhance realism. Maintain consistency in reflections and textures across all shots to preserve authenticity of the gold and gemstones."
+}

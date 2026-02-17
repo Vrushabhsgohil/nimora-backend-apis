@@ -1,0 +1,58 @@
+{
+  "visual_style_summary": "Luxurious Indian royal wedding ambiance with warm golden tones, emphasizing intricate craftsmanship and vibrant emerald details. The overall look is regal, ornate, and richly textured, highlighting traditional Indian craftsmanship in a high-end cinematic style. The lighting is warm and glowing, creating a romantic, timeless atmosphere with subtle sparkle highlights and soft diffusion to enhance textures and materials.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "Macro shot gliding slowly across the layered diamond patterns, emphasizing symmetry, craftsmanship, and the brilliance of the stones.",
+      "camera_angle": "Macro close-up",
+      "camera_movement": "Slow glide across the detailed diamond motifs",
+      "lighting_setup": "Warm, royal lighting with soft diffusion highlighting sparkle and texture",
+      "focus_points": [
+        "Layered diamond patterns",
+        "Stone brilliance",
+        "Metalwork details"
+      ],
+      "duration_estimate": 4.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "Gentle slow-motion 360\u00b0 orbital rotation around the necklace to showcase intricate layers, metalwork, and the vibrancy of the emerald stones.",
+      "camera_angle": "Orbit around the necklace at a consistent height, top-angle view",
+      "camera_movement": "Smooth 360\u00b0 slow orbit at fixed height",
+      "lighting_setup": "Warm ambient lighting with subtle highlights on stones and metal",
+      "focus_points": [
+        "Layered necklace structure",
+        "Emerald stones",
+        "Metal lattice details"
+      ],
+      "duration_estimate": 6.0
+    },
+    {
+      "sequence_number": 3,
+      "description": "Top-angle reveal capturing the full set in luxurious placement on champagne silk backdrop, emphasizing the ornate craftsmanship and materials.",
+      "camera_angle": "Top-down view",
+      "camera_movement": "Slow downward dolly-in for a gentle reveal",
+      "lighting_setup": "Consistent warm royal lighting, soft diffusion to illuminate the full set evenly",
+      "focus_points": [
+        "Full necklace and earrings",
+        "Ornate metalwork",
+        "Vibrant emeralds"
+      ],
+      "duration_estimate": 4.0
+    },
+    {
+      "sequence_number": 4,
+      "description": "Final slow-motion pause on the complete set with subtle sparkle highlights, evoking a regal and elegant celebratory mood.",
+      "camera_angle": "Static shot with slight zoom or tilt as needed",
+      "camera_movement": "Controlled slow motion highlight sweep",
+      "lighting_setup": "Enhanced sparkle reflection with warm accents to emphasize brilliance",
+      "focus_points": [
+        "Jewellery set",
+        "Light sparkle reflections",
+        "Rich textures"
+      ],
+      "duration_estimate": 3.0
+    }
+  ],
+  "technical_notes": "Maintain strict product consistency with accurate geometry, and avoid any distortions or artificial effects. Use high-quality macro lenses (100mm macro, f/2.8) for close-up shots to capture detailed sparkle and texture. Lighting should emulate warm, royal tones with soft diffusion, emphasizing richness and craftsmanship without overexposing the stones. Background remains a clean, luxurious champagne silk to complement the Indian regal aesthetic. Reflections on metals and stones must be physically accurate and natural, avoiding any artificial glow or over-bright highlights."
+}

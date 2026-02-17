@@ -1,0 +1,17 @@
+{
+  "visual_style_summary": "Cinematic and Opulent",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "Close up of ring",
+      "camera_angle": "Macro",
+      "camera_movement": "Slow Pan",
+      "lighting_setup": "Soft Box",
+      "focus_points": [
+        "Diamond"
+      ],
+      "duration_estimate": 5.0
+    }
+  ],
+  "technical_notes": "Use 100mm macro lens"
+}

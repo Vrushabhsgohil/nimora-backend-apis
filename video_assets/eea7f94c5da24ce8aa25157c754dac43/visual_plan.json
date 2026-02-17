@@ -1,0 +1,34 @@
+{
+  "visual_style_summary": "A close-up, macro-focused shot highlighting the teardrop pendant of the Viveka Necklace, emphasizing shimmer, refraction, and the detailed craftsmanship under warm, cinematic lighting. The overall tone is ethereal, refined, and luxurious, creating a sense of exclusivity and timeless elegance.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "A slow, elegant zoom-in starting from the intricate links of the chain, gradually focusing toward the centerpiece. The camera moves with a smooth, calculated pace to build anticipation.",
+      "camera_angle": "Macro 100mm lens, starting with a slight top-down perspective on the links",
+      "camera_movement": "Slow, graceful Dolly In with a subtle tilt to focus on the central teardrop pendant",
+      "lighting_setup": "Cinematic golden-hour style diffused key light, soft backlighting to create a halo around the pendant, highlighting its brilliance and the warm champagne-gold tones. Gentle fill lights to preserve soft shadows and enhance the luminous glow.",
+      "focus_points": [
+        "Detailed craftsmanship of the chain links",
+        "Central teardrop pendant catching light",
+        "Diamond cluster and nestled stone",
+        "Reflections and scintillation on metal and gemstones"
+      ],
+      "duration_estimate": 2.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "A subtle rotation of the pendant to reveal a cascade of brilliance, culminating in a radiant sparkle. The camera captures the interplay of refraction and scintillation, emphasizing the luxurious texture.",
+      "camera_angle": "Close-up macro shot of the teardrop pendant, slightly tilted to showcase its facets",
+      "camera_movement": "Cinematic Slow Motion Rotation, camera remains centered but the pendant rotates gently",
+      "lighting_setup": "Same cinematic golden-hour setup, with increased directional focus on the pendant to maximize sparkle and highlight refraction effects",
+      "focus_points": [
+        "Facet details of the diamonds and gold",
+        "Refraction and scintillation effects",
+        "Halo glow around the pendant",
+        "Overall brilliance and luminosity"
+      ],
+      "duration_estimate": 3.0
+    }
+  ],
+  "technical_notes": "The interaction of light with the diamonds and gold creates dynamic scintillation and refraction, emphasizing the depth and brilliance of the gemstones. The soft, diffused lighting simulates golden-hour sunlight, enhancing warm highlights and creating a subtle halo effect. Precise control of reflections ensures the jewelry\u2019s detailed craftsmanship is visible without harsh glare. Macro optics are used to capture fine textures and intricate details, ensuring the product's features are faithfully represented in a polished, cinematic manner."
+}

@@ -1,0 +1,71 @@
+{
+  "visual_style_summary": "The overall visual tone combines regal opulence with warm, natural elegance, emphasizing traditional Indian craftsmanship through rich golden hues, soft sunlight, and luxurious palace surroundings. The aesthetic aims to evoke a sense of cultural pride, feminine grace, and timeless tradition, using gentle lighting and macro detail to highlight craftsmanship while maintaining a warm, inviting atmosphere.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "Wide shot of the woman in an opulent Indian palace setting, seated or standing gracefully to showcase the full ensemble of jewellery, capturing the luxurious environment and the regal atmosphere.",
+      "camera_angle": "Wide establishing shot",
+      "camera_movement": "Slow slow dolly-in towards the woman",
+      "lighting_setup": "Warm, diffused golden-hour lighting with soft ambient light filtering through windows, enhancing the gold tones and creating a regal, glowing ambiance.",
+      "focus_points": [
+        "Palace environment details",
+        "Jewellery as focal point",
+        "Warm golden tones"
+      ],
+      "duration_estimate": 4.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "Close-up, slow zoom-in on the woman\u2019s neck as she gently touches the necklace, emphasizing the craftsmanship and ornate design details.",
+      "camera_angle": "Close-up macro (100mm lens, f/2.8)",
+      "camera_movement": "Slow zoom-in",
+      "lighting_setup": "Soft, warm spotlight subtly highlighting the central motifs and filigree details with gentle fill light to balance reflections.",
+      "focus_points": [
+        "Filigree craftsmanship",
+        "Bead patterns",
+        "Central circular motif"
+      ],
+      "duration_estimate": 3.0
+    },
+    {
+      "sequence_number": 3,
+      "description": "Macro shot focusing on the central circular motif, capturing intricate filigree work and bead-like patterns with subtle rotation to reveal dangling elements and depth.",
+      "camera_angle": "Macro close-up (100mm lens, f/2.8)",
+      "camera_movement": "Gentle 360\u00b0 rotation around the central motif",
+      "lighting_setup": "Refined spotlight, emphasizing sparkle and craftsmanship, with soft bounce fill to maintain warm tone and highlight metallic textures.",
+      "focus_points": [
+        "Central motif details",
+        "Filigree and bead patterns",
+        "Dangling elements"
+      ],
+      "duration_estimate": 4.0
+    },
+    {
+      "sequence_number": 4,
+      "description": "Subtle rotation of the entire necklace to showcase its ornate profile and dangling elements as the background softly blurs, culminating in a shot that frames the jewellery as a regal object of pride.",
+      "camera_angle": "Mid-shot, slightly elevated to follow rotation",
+      "camera_movement": "Slow, controlled rotation",
+      "lighting_setup": "Consistent warm spotlight with soft fills to accentuate reflections and depth",
+      "focus_points": [
+        "Jewellery profile",
+        "Dangling elements",
+        "Overall craftsmanship"
+      ],
+      "duration_estimate": 4.0
+    },
+    {
+      "sequence_number": 5,
+      "description": "Final intimate shot of the woman\u2019s face with the necklace framing her face, capturing her confident smile, with soft background blur that emphasizes her elegance and the jewellery's richness.",
+      "camera_angle": "Close-up, eye-level",
+      "camera_movement": "Subtle push-in",
+      "lighting_setup": "Warm, gentle key light with soft diffuse fill, emphasizing skin texture and jewellery sparkle",
+      "focus_points": [
+        "Woman\u2019s face",
+        "Jewellery framing her face",
+        "Gentle sparkle highlights"
+      ],
+      "duration_estimate": 3.0
+    }
+  ],
+  "technical_notes": "Reflective surfaces of the gold and intricate details must maintain consistent realistic sparkle, avoiding overexposure or artificial glow. Lighting angles should emphasize craftsmanship without creating distracting reflections. Depth of field should be soft enough to isolate the product yet preserve fine detail. All shots must uphold the product's exact shape, size, and design integrity throughout to comply with the 'Golden Rule.' The environment should complement the heritage theme with warm tones and natural light, avoiding any unnatural color grading or filters outside the specified warm, luxurious palette."
+}

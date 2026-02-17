@@ -1,0 +1,12 @@
+{
+  "score": 9.5,
+  "feedback": "The prompt demonstrates a high level of adherence to luxury standards with detailed technical specifications, elegant environment, and emphasis on product integrity. It clearly maintains the product's consistency with the reference image, focusing on realism and craftsmanship with photorealistic elements and controlled lighting. The tone and style evoke opulence and heritage, suitable for high-end commercial use. Minor improvements could include emphasizing ultra-high clarity and a slightly more refined luxury tone, but overall, it fully aligns with the premium expectations.",
+  "critique_points": [
+    "The prompt effectively covers all technical and stylistic aspects, ensuring authenticity and luxury appeal.",
+    "It explicitly emphasizes product consistency and prevents distortions, maintaining high fidelity to the reference image.",
+    "The lighting, environment, and camera specifications are detailed, supporting cinematic quality.",
+    "The tone remains premium and professional, suitable for a high-end jewellery commercial.",
+    "The negative prompt thoroughly excludes any visual artifacts or distortions."
+  ],
+  "approved": true
+}

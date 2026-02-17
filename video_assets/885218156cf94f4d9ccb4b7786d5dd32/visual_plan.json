@@ -1,0 +1,32 @@
+{
+  "visual_style_summary": "A warm, naturalistic cinematic portrayal emphasizing genuine, everyday elegance. The scene captures rich craftsmanship with soft, diffused daylight, blending traditional Indian jewelry aesthetics with a modern, authentic feel. The lighting, environment, and camera work aim to evoke a sense of understated luxury and craftsmanship, highlighting intricate details and subtle sparkle in a candid moment.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "A wide naturalistic shot of a woman in a traditional Indian setting, softly illuminated by natural daylight filtering through a window. She is standing calmly, gently touching her neck to reveal the necklace, with organic textures like marble and wood decor in the background that enhance the warm atmosphere.",
+      "camera_angle": "Wide shot, eye-level, natural perspective",
+      "camera_movement": "Slow, gentle zoom-in as the woman touches her neck",
+      "lighting_setup": "Diffuse natural daylight, soft shadows, gentle glow highlighting the jewelry and organic environment",
+      "focus_points": [
+        "Environment textured surfaces (marble, wood)",
+        "The woman's face and hand movement",
+        "Part of the necklace detail during the touch"
+      ],
+      "duration_estimate": 2.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "Close-up reveal of the necklace on the woman's neck as she adjusts it, showing intricate filigree work, floral motifs, engraved patterns, and inset gemstones sparkling subtly. Focus remains on craftsmanship and detail, with a soft background bokeh emphasizing the jewelry.",
+      "camera_angle": "Macro shot, close-up on neck and jewelry",
+      "camera_movement": "Slow, slight pull to emphasize the detail and sparkle",
+      "lighting_setup": "Natural, soft diffused light with gentle shadows, slight glow on gemstones to emphasize sparkle",
+      "focus_points": [
+        "Filigree and engraved patterns of the necklace",
+        "Inset gemstones' sparkle",
+        "Texture of the gold finish"
+      ],
+      "duration_estimate": 3.0
+    }
+  ],
+  "technical_notes": "Reflections and highlights on the gold and gemstones are physically accurate, capturing the true sparkle and texture of the jewellery. The depth of field is shallow (approximately f/2.0), isolating the product while retaining a natural, organic context. No distortions or artificial effects are introduced, ensuring the product remains consistent and true to the reference. Lighting is primarily natural, emphasizing warm tones and organic textures. The camera angles and movements are slow and stable, maintaining a documentary-like, authentic feel for the scene."
+}

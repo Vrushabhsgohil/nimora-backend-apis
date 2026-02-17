@@ -1,0 +1,58 @@
+{
+  "visual_style_summary": "The overall visual approach is ultra-premium and cinematic, emphasizing rich gold and green tones. The set is showcased against a soft champagne silk backdrop, illuminated by warm, royal lighting to enhance the brilliance and opulence of the diamonds and emeralds. The mood exudes regal sophistication and Indian royal grandeur with a focus on craftsmanship, symmetry, and vibrant detail.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "Slow macro glide across the layered diamond motifs of the necklace, focusing on intricate craftsmanship, symmetry, and the sparkle of diamonds and emeralds.",
+      "camera_angle": "Macro close-up",
+      "camera_movement": "Slow glide from one end of the layered necklace to the other",
+      "lighting_setup": "Soft diffused key light with subtle sparkle highlights, warm tone emphasizing gold and green stones",
+      "focus_points": [
+        "Diamond craftsmanship and symmetry",
+        "Layered design details",
+        "Vibrant emerald stones"
+      ],
+      "duration_estimate": 4.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "Transition to a gentle top-angle shot showcasing the entire set \u2014 necklace and earrings \u2014 in a single elegant frame, highlighting the vibrant stones and ornate design.",
+      "camera_angle": "Top-down view",
+      "camera_movement": "Gentle steady camera hold, slight tilt to reveal earrings",
+      "lighting_setup": "Diffuse warm lighting with subtle sparkle highlights, maintaining rich golden and emerald tones",
+      "focus_points": [
+        "Full set visibility",
+        "Earrings matching necklace",
+        "Overall ornate design and vibrancy"
+      ],
+      "duration_estimate": 5.0
+    },
+    {
+      "sequence_number": 3,
+      "description": "Slow-motion transition emphasizing the sparkle and brilliance of the diamonds and emeralds, capturing reflections and facets.",
+      "camera_angle": "Close-up macro",
+      "camera_movement": "Slow zoom or subtle motion to enhance sparkle",
+      "lighting_setup": "Consistent warm, royal lighting with enhanced sparkle highlights",
+      "focus_points": [
+        "Diamond facets",
+        "Emerald luster",
+        "Reflections emphasizing craftsmanship"
+      ],
+      "duration_estimate": 3.0
+    },
+    {
+      "sequence_number": 4,
+      "description": "Final subtle fade-out shot, with the set radiating on the champagne silk backdrop, evoking opulence and regal elegance.",
+      "camera_angle": "Static shot with slight pull-back",
+      "camera_movement": "Slow fade out",
+      "lighting_setup": "Maintain warm, diffuse illumination with highlights fading gently",
+      "focus_points": [
+        "Set in full display",
+        "Luxurious backdrop",
+        "Overall regal ambiance"
+      ],
+      "duration_estimate": 3.0
+    }
+  ],
+  "technical_notes": "Ensure the jewellery's shape, stone placement, and design details remain perfectly consistent throughout all shots. Reflections and sparkle highlights must be physically accurate and natural, avoiding any artificial glows or exaggerated effects. Use macro lenses (100mm f/2.8) for close-ups, soft focus for background separation, and maintain high contrast with clean whites and deep blacks during post-color grading. Highlight the richness of gold, green stones, and meticulous craftsmanship without introducing distortions or misalignments."
+}

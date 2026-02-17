@@ -1,0 +1,45 @@
+{
+  "visual_style_summary": "Ethereal, warm tones with a luxurious depth; soft-focus background with subtle golden hues; emphasizing richness and cultural opulence; a refined and sophisticated visual style.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "Close-up of intricate coin motifs shimmering with detailed craftsmanship, emphasizing the texture and metallic finishes, slowly rotating to showcase depth.",
+      "camera_angle": "Macro 100mm",
+      "camera_movement": "Slow, graceful rotational shot",
+      "lighting_setup": "Cinematic, warm golden lighting with gentle highlights on motifs, soft shadows to add depth",
+      "focus_points": [
+        "Coin motifs",
+        "Metal texture",
+        "Gleaming surface"
+      ],
+      "duration_estimate": 2.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "Gradual zoom out from the coin motifs to reveal the full traditional gold necklace set, maintaining focus on the craftsmanship and cultural richness.",
+      "camera_angle": "Macro 100mm",
+      "camera_movement": "Slow zoom out",
+      "lighting_setup": "Consistent warm golden lighting, highlighting geometric patterns and dangling elements",
+      "focus_points": [
+        "Necklace structure",
+        "Geometric patterns",
+        "Dangling elements"
+      ],
+      "duration_estimate": 2.0
+    },
+    {
+      "sequence_number": 3,
+      "description": "Final fleeting sparkle shot highlighting the colorful stones (red and green), capturing their gleam as they catch the light, with soft-focus background enhancing opulence.",
+      "camera_angle": "Close-up macro",
+      "camera_movement": "Slow, cinematic slo-mo with subtle sparkle emphasis",
+      "lighting_setup": "Warm, golden cinematic lighting with gentle highlights on stones, subtle illumination on gold accents",
+      "focus_points": [
+        "Red and green stones",
+        "Gold accents",
+        "Sparkling light reflections"
+      ],
+      "duration_estimate": 1.0
+    }
+  ],
+  "technical_notes": "Use naturalistic physics for light reflection on metal and gemstones, ensuring textures and sparkle are realistic. Maintain product consistency by avoiding any distortion or morphing effects. Implement smooth slow-motion interpolations for shimmer and glitter highlights to preserve a natural, premium feel. Lighting should accentuate craftsmanship details with subtle shadows for depth, avoiding harsh contrasts."
+}

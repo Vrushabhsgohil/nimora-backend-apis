@@ -1,0 +1,42 @@
+{
+  "visual_style_summary": "A cohesive blend of ethereal softness and refined luxury, emphasizing warm rose gold tones and shimmering diamonds. Cinematic soft-focus backgrounds with gentle lighting create a timeless, feminine aura, highlighting intricate craftsmanship and delicate sparkle.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "Close-up of the necklace's detailed links, showcasing the intricate marquise-inspired design with a smooth, neutral background.",
+      "camera_angle": "Macro 100mm",
+      "camera_movement": "Slow, deliberate focus pull",
+      "lighting_setup": "Cinematic soft diffused spotlighting with warm hue, accentuating the rose gold and diamonds",
+      "focus_points": [
+        "Marquise-inspired links",
+        "Intricate craftsmanship"
+      ],
+      "duration_estimate": 1.5
+    },
+    {
+      "sequence_number": 2,
+      "description": "Smooth transition emphasizing the clustered diamonds along the curve of the pendant, capturing their sparkle and texture.",
+      "camera_angle": "Macro 100mm",
+      "camera_movement": "Slow tilt or slight zoom with focus pull",
+      "lighting_setup": "Soft spotlight emphasizing shimmer and depth, with diamond highlights",
+      "focus_points": [
+        "Clustered diamonds",
+        "Pendant curvature"
+      ],
+      "duration_estimate": 1.5
+    },
+    {
+      "sequence_number": 3,
+      "description": "Soft focus on the solitary stone within the teardrop pendant, revealing the necklace\u2019s elegant silhouette and feminine grace.",
+      "camera_angle": "Macro 100mm",
+      "camera_movement": "Gentle slow zoom in, culminating with focus lock",
+      "lighting_setup": "Diffused spotlight enhancing the teardrop\u2019s clarity and glow",
+      "focus_points": [
+        "Solitary teardrop stone",
+        "Overall silhouette"
+      ],
+      "duration_estimate": 2.0
+    }
+  ],
+  "technical_notes": "Lighting employs cinematic diffused softboxes with minimal shadows, creating a luminous, ethereal glow. Reflective surfaces and gemstones are precisely illuminated to enhance sparkle without harsh reflections. Texture fidelity is maintained through high-resolution macro focus, ensuring detailed craftsmanship. Use of steady camera rigs and smooth focus pulls ensures a seamless, realistic slow-motion reveal that accentuates the jewelry\u2019s delicate intricacies and feminine allure."
+}

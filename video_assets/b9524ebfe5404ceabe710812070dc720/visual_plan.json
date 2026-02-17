@@ -1,0 +1,45 @@
+{
+  "visual_style_summary": "Ethereal, warm golden hues with rich green accents, cinematic luminous glow highlighting the necklace's craftsmanship, creating a regal and sophisticated mood that emphasizes elegance and divine illumination.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "Start with an extreme close-up macro shot of the pendant emerging from shadows, with subtle movement to hint at unveiling. Shadows dominate the frame, emphasizing mystery and anticipation.",
+      "camera_angle": "Macro close-up",
+      "camera_movement": "Slow push-in with subtle racking focus from shadow to reveal the pendant's intricate craftsmanship",
+      "lighting_setup": "Soft, diffused golden backlight combined with low-intensity shadow play, gentle spotlight gradually revealing the pendant\u2019s details",
+      "focus_points": [
+        "Filigree work",
+        "Leaf motifs",
+        "Teardrop embellishments"
+      ],
+      "duration_estimate": 2.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "Transition to a medium close-up as warm golden light bathes the pendant, revealing its detailed craftsmanship in full detail. The setting highlights the lustrous metal and vibrant gemstones.",
+      "camera_angle": "Medium macro/close-up",
+      "camera_movement": "Slow zoom with slight orbital rotation to showcase depth and dimension",
+      "lighting_setup": "Warm key light with soft fill, emphasizing gleam on metal and sparkle on stones, with a subtle back rim light to create a halo effect",
+      "focus_points": [
+        "Gemstone sparkle",
+        "Gold filigree textures",
+        "Reflections on surface"
+      ],
+      "duration_estimate": 2.0
+    },
+    {
+      "sequence_number": 3,
+      "description": "Final scene featuring a delicate, slow dangling movement of the pendant, capturing the elegance and grace. The camera slows to focus on the shimmering motion of the gemstones and intricate details.",
+      "camera_angle": "Dynamic close-up / slight tilt",
+      "camera_movement": "Gentle lateral slide synchronized with pendulum motion, with slow rack focus shifting from the dangling pendant to the background blurred elements",
+      "lighting_setup": "Consistent warm glow with emphasis on sparkling stones through caustic light patterns, enhancing the luminous quality",
+      "focus_points": [
+        "Diamond brilliance",
+        "Pendant movement",
+        "Reflections on metal surface"
+      ],
+      "duration_estimate": 1.5
+    }
+  ],
+  "technical_notes": "Strictly maintain product integrity with consistent shape, size, and stone placement. Use macro lenses (e.g., 100mm macro) at f/2.0 for shallow depth. Incorporate caustic light effects passing through gemstones to create natural refractive patterns. Employ smooth, slow camera movements for elegance. The lighting setup should highlight the gold texture and gemstone fire, with rim lighting creating a subtle halo effect for an ethereal mood."
+}

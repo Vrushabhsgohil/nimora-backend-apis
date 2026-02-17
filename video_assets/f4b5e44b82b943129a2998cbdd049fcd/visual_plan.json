@@ -1,0 +1,45 @@
+{
+  "visual_style_summary": "A minimalistic, ultra-premium visual approach emphasizing clarity, precision, and luxurious textures. The scene leverages a sleek gray studio background with polished gold surfaces, dramatic high-contrast lighting to highlight reflections and sparkle, and soft cinematic shadows. The overall tone is modern, sophisticated, and elegant, focusing on high-detail textures, smooth curves, and accurate reflections to showcase craftsmanship and brilliance.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "Extreme macro shot capturing the diamond's sparkle and the delicate open-heart motif in sharp detail. Focus on the texture of the diamond, prong setting, and fine metal craftsmanship. The background is smooth and neutral, allowing the product to dominate.",
+      "camera_angle": "Macro close-up, 100mm, f/2.8, focusing on the diamond and heart motif",
+      "camera_movement": "Static with slight focus pull to enhance texture detail",
+      "lighting_setup": "Dramatic spotlight with intense high-contrast illumination, highlighting sparkle and metal texture; soft cinematic shadows",
+      "focus_points": [
+        "Diamond brilliance and facets",
+        "Open-heart motif detail",
+        "Metal surface texture"
+      ],
+      "duration_estimate": 3.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "Smooth, slow 360\u00b0 rotation of the ring on a glossy, reflective surface. Emphasize the dual-tone finish (yellow and white gold), craftsmanship, and symmetry. Macro sparkle highlights appear during rotation, accentuating the brilliance of the diamond and polished gold.",
+      "camera_angle": "Centered top-down view, orbiting at fixed height, maintaining product framing",
+      "camera_movement": "Constant slow orbit at 10-15 seconds per full rotation",
+      "lighting_setup": "Dramatic spotlight with high contrast, subtle light flares, and cinematic shadows to emphasize shape, reflections, and textures",
+      "focus_points": [
+        "Ring's overall shape and symmetry",
+        "Dual-tone finish details",
+        "Reflections and sparkle highlights on facets"
+      ],
+      "duration_estimate": 15.0
+    },
+    {
+      "sequence_number": 3,
+      "description": "Gradual zoom out from the full ring, maintaining focus on craftsmanship while revealing the harmony of design. Incorporate cinematic shadows and subtle light flares to reinforce a luxurious ambiance. Conclude with a full profile view of the ring, emphasizing elegance and balance.",
+      "camera_angle": "Eye-level, slight angle to highlight the open-heart motif and band curvature",
+      "camera_movement": "Slow zoom out with gentle focus shift to maintain sharpness",
+      "lighting_setup": "High-contrast spotlight with soft shadows, maintaining dramatic luminosity to accentuate surface highlights",
+      "focus_points": [
+        "Full ring profile",
+        "Open-heart design interplay with band",
+        "Reflections on polished gold"
+      ],
+      "duration_estimate": 4.0
+    }
+  ],
+  "technical_notes": "Ensure consistent product geometry throughout all shots; reflections and sparkle highlights must be physically accurate, with no distortion or fake effects. Use soft, precise lighting to achieve high contrast with rich, realistic metallic and gemstone reflections. Maintain a monochrome palette emphasizing gray tones, polished gold surfaces, and sparkle details. No visual distortions or AI-generated variations; the product must stay identical in shape and proportions across all scenes."
+}

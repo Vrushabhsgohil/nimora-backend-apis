@@ -1,0 +1,42 @@
+{
+  "visual_style_summary": "A minimal and clean visual style, highlighting the luxurious craftsmanship of the ring against a sleek black background. The focus is on the sharp and focused lighting to accentuate the reflective brilliance of the diamonds and the transcendent glow of the yellow gold.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "The scene opens with an extreme macro shot focused on the central round diamond of the ring, perfectly capturing its facets and brilliant cut.",
+      "camera_angle": "macro",
+      "camera_movement": "slow push-in",
+      "lighting_setup": "Sharp, focused lighting from a diffused source positioned to highlight the diamond\u2019s brilliance and avoid overexposure.",
+      "focus_points": [
+        "center diamond cut",
+        "diamond brilliance"
+      ],
+      "duration_estimate": 2.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "The camera transitions smoothly to a slightly wider macro shot as the ring gently rotates, revealing the pave-set diamond details along the band and the split shank design.",
+      "camera_angle": "macro",
+      "camera_movement": "slow orbital rotation",
+      "lighting_setup": "Focused lighting on the side to cast subtle shadows, emphasizing the split shank's structure and pave-set diamonds.",
+      "focus_points": [
+        "pave-set diamonds",
+        "split shank design"
+      ],
+      "duration_estimate": 2.0
+    },
+    {
+      "sequence_number": 3,
+      "description": "A medium macro shot provides a full view of the ring, capturing its polished yellow gold sheen, reflecting light naturally and elegantly.",
+      "camera_angle": "medium macro",
+      "camera_movement": "slow pull-back to reveal",
+      "lighting_setup": "Soft, broad lighting from the top to evenly illuminate the ring's reflective surface.",
+      "focus_points": [
+        "yellow gold polish",
+        "overall ring design"
+      ],
+      "duration_estimate": 1.0
+    }
+  ],
+  "technical_notes": "Lens choice: 100mm Macro Lens with an f-stop of 2.8 to ensure precise focus on the diamonds and gold texture. Lighting should be managed to prevent any overexposed highlights and to maintain a clear view of all jewellery details. The rotating platform should be stable and smooth to ensure seamless motion."
+}

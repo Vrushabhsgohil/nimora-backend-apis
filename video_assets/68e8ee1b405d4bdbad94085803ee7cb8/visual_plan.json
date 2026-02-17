@@ -1,0 +1,45 @@
+{
+  "visual_style_summary": "A dark, ultra-premium studio setting with a deep black velvet background. High-contrast warm golden rim lighting highlights the polished gold surface and sparkling diamonds. Sharp, realistic reflections and subtle sparkle highlights emphasize the ring's luxury and craftsmanship. Cinematic depth and refined textures create a sophisticated, timeless mood with a focus on clarity, brilliance, and elegant detailing.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "Extreme macro close-up of the central round-cut diamond, showcasing facets, clarity, and sparkle within 2 seconds.",
+      "camera_angle": "macro",
+      "camera_movement": "static shot with subtle focus pull",
+      "lighting_setup": "soft spotlight from above with warm golden rim light, high-contrast reflections on the diamond",
+      "focus_points": [
+        "diamond facets and clarity",
+        "sparkle highlights",
+        "gold inner prong setting"
+      ],
+      "duration_estimate": 2.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "Gradual and smooth 360-degree rotation of the ring over a glossy reflective surface from 2 to 8 seconds, emphasizing the detailed craftsmanship and interaction of light with facets and gold.",
+      "camera_angle": "orbit around the product",
+      "camera_movement": "slow, continuous orbit at fixed height",
+      "lighting_setup": "consistent high-contrast studio lighting with golden rim light and subtle light flare effects during orbit",
+      "focus_points": [
+        "entire ring profile",
+        "diamond facets and reflections",
+        "metal surface finish"
+      ],
+      "duration_estimate": 6.0
+    },
+    {
+      "sequence_number": 3,
+      "description": "Slight zoom out to showcase the full elegance of the ring, with emphasis on craftsmanship and reflective highlights, concluding with a cinematic shadowed soft focus to reinforce luxury.",
+      "camera_angle": "angled view with slight elevation",
+      "camera_movement": "slow zoom out",
+      "lighting_setup": "consistent studio lighting, gentle shadowing, soft focus for a cinematic finish",
+      "focus_points": [
+        "overall ring silhouette",
+        "sparkling diamonds",
+        "gold band texture"
+      ],
+      "duration_estimate": 2.0
+    }
+  ],
+  "technical_notes": "Maintain strict product consistency throughout all scenes; the jewellery must stay exactly identical in shape, size, and positioning. Use macro lenses (100mm, f/2.8) for detailed shots. The lighting should produce high-contrast sparkle highlights and realistic reflections without overexposure. Reflections must be physically accurate, avoiding any exaggerated or artificial effects. Depth of field should be soft enough to isolate the product, with sharp focus on key features during each scene."
+}

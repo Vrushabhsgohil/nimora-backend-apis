@@ -1,0 +1,32 @@
+{
+  "visual_style_summary": "Ethereal and opulent with warm gold tones contrasted by lush green accents, cinematic color grading emphasizing richness and depth, creating an atmosphere of regal sophistication.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "A macro shot capturing the detailed filigree craftsmanship and leaf motifs on the emerald-studded necklace, with a focus on texture and metallic polish. Soft, golden-hour lighting wraps around the piece, highlighting the intricate gold work and vibrant green stones, with natural caustics passing through the emeralds to emphasize their depth.",
+      "camera_angle": "macro",
+      "camera_movement": "slow push-in to emphasize detail and depth",
+      "lighting_setup": "diffused key light with soft fill, rim light behind to enhance edge separation, warm golden-hour tone with subtle reflectors to boost glow",
+      "focus_points": [
+        "filigree work",
+        "leaf motifs",
+        "green stones"
+      ],
+      "duration_estimate": 2.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "Seamless transition to a close-up of the pendant\u2019s intricate filigree and the dangling element, with gentle camera movement to reveal movement, sparkle, and craftsmanship. The focus shifts smoothly from the detailed upper part to the hanging embellishment, capturing reflections, brilliance, and depth.",
+      "camera_angle": "close-up",
+      "camera_movement": "gentle vertical rack focus combined with slow lateral slide",
+      "lighting_setup": "spotlight with soft diffusion, enhancing the gleam of metallic work and gemstones, rim light for edge separation, maintaining warm tone",
+      "focus_points": [
+        "filigree details",
+        "dangling element sparkle",
+        "gemstone reflections"
+      ],
+      "duration_estimate": 3.0
+    }
+  ],
+  "technical_notes": "Utilize 8K resolution with prime macro lens (e.g., 100mm f/2.8) for sharp texture. Maintain shallow depth of field (f/1.8 - f/2.2) to isolate the jewels. Ensure natural caustics to accentuate gemstone brilliance. Use stabilised dolly or macro focus pull for smooth key movements. Colors should be graded to warm golds with lush greens, with careful control of highlights to avoid overexposure of metal or stones."
+}

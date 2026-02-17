@@ -1,0 +1,11 @@
+{
+  "score": 9.2,
+  "feedback": "The prompt demonstrates a strong adherence to luxury standards, emphasizing cinematic quality, high detail, and a premium aesthetic. It accurately reflects the product description, showcasing intricate craftsmanship, jewelry materials, and environment consistent with a high-end Indian bridal theme. Technical specifications like 8k resolution, macro lens, and photorealistic effects ensure fidelity and realism. The tone remains professional and luxurious. Minor improvements could include more explicit mention of product consistency and ensuring the prompt clearly states the jewellery must be unchanged and 100% identical to the image, but overall it meets criteria well.",
+  "critique_points": [
+    "The prompt effectively captures the luxury, craftsmanship, and environment but could explicitly emphasize that the jewellery remains 100% consistent and identical to the image.",
+    "While detailed, the description could reinforce the importance of maintaining the product's visual integrity throughout the video.",
+    "The negative prompt is comprehensive and well-suited to exclude AI distortions, maintaining the high-end quality.",
+    "Style and aesthetic language is fitting, emphasizing opulence and tradition, aligning with luxury branding."
+  ],
+  "approved": true
+}

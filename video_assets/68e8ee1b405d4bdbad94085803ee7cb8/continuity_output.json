@@ -1,0 +1,6 @@
+{
+  "score": 10.0,
+  "feedback": "All strict continuity control rules are followed. The prompt explicitly maintains 100% consistent product appearance, with subject locked to reference image and no redesign or morphing. The usage context indicates no model involvement, and the visual style adheres to studio-grade, premium requirements with appropriate terminology. Transition descriptions specify cinematic, smooth movement, and banned terms are absent. The visual plan corresponds with the final prompt's description of lighting, focus, and technical specifications to ensure fidelity and consistency throughout. No violations detected.",
+  "violation_type": null,
+  "approved": true
+}

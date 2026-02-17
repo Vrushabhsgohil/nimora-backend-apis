@@ -1,0 +1,31 @@
+{
+  "visual_style_summary": "Minimalist luxury with a focus on clarity and refinement. Clean white studio background, sharp high-key lighting emphasizing the brilliance and smooth texture of the gold and diamonds. The overall mood is bright, elegant, and sophisticated, capturing a moment of pure elegance and modern craftsmanship.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "Begin with a close-up of an abstract, out-of-focus surface, suggesting the ring's reflection or surface texture, creating an artistic and soft introduction. The background is white, with subtle highlights hinting at the product's shape.",
+      "camera_angle": "Macro, very shallow focus, emphasizing an abstract surface",
+      "camera_movement": "Slow, subtle zoom-in or focus pull to transition smoothly",
+      "lighting_setup": "High-key studio lighting with soft, even illumination, minimal reflections to keep the abstract quality",
+      "focus_points": [
+        "abstract surface texture",
+        "light reflections"
+      ],
+      "duration_estimate": 1.5
+    },
+    {
+      "sequence_number": 2,
+      "description": "Transition from the abstract surface to reveal the female finger wearing the ring. The focus shifts slowly from the background to the finger, bringing the ring into clear view, highlighting the twisted band and the central diamond.",
+      "camera_angle": "Close-up on finger with ring, slightly tilted for a dynamic reveal",
+      "camera_movement": "Slow, gentle dolly or focus pull progressing from abstract to detailed view",
+      "lighting_setup": "High-key, cinema-quality lighting with subtle reflections emphasizing sparkle and smoothness",
+      "focus_points": [
+        "central diamond facets",
+        "twisted gold band",
+        "reflections"
+      ],
+      "duration_estimate": 3.5
+    }
+  ],
+  "technical_notes": "The shot maintains product consistency, with no distortions or AI variations. Reflections and sparkle are physically accurate, responding to gemstone cuts. The macro lens is set at 100mm focal length with an aperture around f/2.0 for shallow depth of field. Lighting is designed to enhance sparkle without artificial effects, ensuring high clarity and natural highlights. The camera movements are slow and smooth, emphasizing elegance and allowing the detailed textures of the ring to be appreciated fully."
+}

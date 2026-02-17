@@ -1,0 +1,11 @@
+{
+  "score": 9.2,
+  "feedback": "The prompt effectively adheres to luxury standards, emphasizing premium materials, meticulous craftsmanship, and cinematic visual quality. It specifies high-end technical parameters like macro lenses, realistic rendering, and detailed environment and lighting setups, aligning well with the desired premium aesthetic. The description maintains product consistency and avoids any distortions, supporting realism and quality. However, minor refinements could include explicitly confirming the jewellery remains identical to the reference image and ensuring all technical terms are aligned perfectly with luxury brand language. Overall, it reflects a high-level, premium video concept, suitable for a luxury bridal campaign.",
+  "critique_points": [
+    "While the prompt mentions the jewellery remains identical to the reference image, explicitly stating it must be 100% consistent and unchanged would reinforce product fidelity.",
+    "The technical rendering details are very advanced; reaffirming the focus on realism and premium quality can enhance the perceived elegance.",
+    "Although the style is cinematic and luxurious, using more refined, high-end brand language can further elevate tone.",
+    "The negative prompt is comprehensive but could mention avoiding any 'over-processed' or 'cartoonish' effects to preserve authenticity."
+  ],
+  "approved": true
+}

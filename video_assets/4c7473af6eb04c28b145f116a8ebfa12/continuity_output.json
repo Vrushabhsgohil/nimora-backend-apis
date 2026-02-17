@@ -1,0 +1,6 @@
+{
+  "score": 10.0,
+  "feedback": "The prompt explicitly states: 'The product remains static in shape and appearance, with no morphing or distortion,' and emphasizes maintaining exactly the reference product. It mentions 'maintain 100% consistent product appearance' and 'no morphing.' The prompt excludes human elements (usage_context is false) and specifies realistic, natural lighting with no artificial effects, pure cinematic, slow camera movements, and emphasizing physical accuracy. All strict control rules are adhered to, ensuring perfect compliance.",
+  "violation_type": null,
+  "approved": true
+}

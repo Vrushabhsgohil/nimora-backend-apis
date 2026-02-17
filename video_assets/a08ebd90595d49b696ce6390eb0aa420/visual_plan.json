@@ -1,0 +1,32 @@
+{
+  "visual_style_summary": "Luxury yet minimalistic with a high-key studio setting, neutral grey background, soft refined lighting emphasizing clarity and sparkle, creating an ethereal, elegant mood that highlights the craftsmanship and timeless beauty of the diamond ring.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "Start with a blurred, abstract macro shot of the ring area, creating a sense of anticipation and mystery, with subtle hints of sparkle emerging.",
+      "camera_angle": "macro, shallow focus with a slightly out-of-focus background",
+      "camera_movement": "slow, gradual refocus from blurred to sharp",
+      "lighting_setup": "High-key, soft, diffused lighting with gentle reflections, ensuring no harsh shadows and highlighting the ring\u2019s texture and brilliance",
+      "focus_points": [
+        "central diamond gleam",
+        "pave accents on the twisted band",
+        "gold surface polish"
+      ],
+      "duration_estimate": 2.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "Refocused shot of the model's hand with the ring prominently displayed, the hand gently moving into a natural, elegant pose, revealing the ring in full detail.",
+      "camera_angle": "macro close-up, focusing on the hand and ring",
+      "camera_movement": "slow, subtle push-in towards the hand",
+      "lighting_setup": "Consistent high-key, soft lighting, emphasizing the glow of the gold and the sparkle of the diamonds",
+      "focus_points": [
+        "central diamond's brilliance",
+        "pave detailing on the band",
+        "overall elegance of the hand pose"
+      ],
+      "duration_estimate": 3.0
+    }
+  ],
+  "technical_notes": "Ensure reflections and sparkle are physically accurate, with caustics responsive to gemstone cuts. Use a 100mm macro lens at f/2.0 for sharp focus and shallow depth of field. Maintain consistent high-key lighting without harsh shadows to preserve a luxurious, clean aesthetic. The ring's shape, size, and reflective properties must remain 100% consistent throughout the shot sequence, avoiding any distortions or effects that alter its geometry or appearance."
+}

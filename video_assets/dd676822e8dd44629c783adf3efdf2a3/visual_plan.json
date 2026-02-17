@@ -1,0 +1,32 @@
+{
+  "visual_style_summary": "Ethereal and cinematic aesthetic characterized by soft-focus backgrounds, warm golden hues, and crisp white accents. The lighting emphasizes the brilliance and facets of the diamond and metal details, with a subtle glow that highlights craftsmanship and luxury.",
+  "scenes": [
+    {
+      "sequence_number": 1,
+      "description": "A macro close-up shot from above of the Nomi Bridal Ring Set, focusing on the center diamond and square halo, capturing the interplay of facets and sparkle against a soft background.",
+      "camera_angle": "Macro 100mm",
+      "camera_movement": "Slow zoom-in",
+      "lighting_setup": "Cinematic diffused golden light with soft highlights to enhance brilliance, creating a warm, inviting glow. Gentle fill light to maintain clarity on intricate details.",
+      "focus_points": [
+        "Center diamond facet sparkle",
+        "Square halo edges",
+        "Pav\u00e9 details"
+      ],
+      "duration_estimate": 2.0
+    },
+    {
+      "sequence_number": 2,
+      "description": "Transition to a subtle slow rotation around the ring, revealing both the warm yellow gold and white accents, emphasizing contrast and craftsmanship.",
+      "camera_angle": "Macro rotate around axis",
+      "camera_movement": "Slow rotation (15-20 degrees per second)",
+      "lighting_setup": "Consistent warm diffused lighting with gentle highlights on metal surfaces to accentuate dual-tone finish.",
+      "focus_points": [
+        "Yellow gold and white accents contrast",
+        "Facets of the diamond in motion",
+        "Pav\u00e9 detailing"
+      ],
+      "duration_estimate": 3.0
+    }
+  ],
+  "technical_notes": "Lighting is calibrated to mimic cinematic golden hour, emphasizing the brilliance and refraction within the diamond facets. Soft diffusion ensures a luxurious glow without harsh reflections. The macro lens captures the intricate craftsmanship, with rotation providing a dynamic view of the textures and color contrasts. The scene relies on the physical properties of diamonds for scintillation and refraction, while metals showcase specular highlights and polished textures."
+}

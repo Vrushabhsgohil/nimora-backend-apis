@@ -1,0 +1,6 @@
+{
+  "score": 10.0,
+  "feedback": "The prompt explicitly states the necessity to 'maintain 100% consistent product appearance' and 'product geometry strictly maintained,' ensuring product consistency. It mentions that reflections and sparkle effects are physically accurate, with no overblown effects or artificial glows. The product is described as static and locked to the reference image, with no mention of redesign or morphing. The model is not used, and the scene avoids human elements, aligning with the 'no people' requirement. Visual style directives match the ecommerce premium standards, emphasizing studio lighting, macro, cinematic, and slow, smooth movements. There are no banned terms or movement styles. All strict rules are followed.",
+  "violation_type": null,
+  "approved": true
+}
